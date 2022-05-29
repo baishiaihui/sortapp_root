@@ -1,6 +1,6 @@
 [submodule "api"]
  path = api
- url = https://github.com/baishiaihui/myapp_api
+ url = git@github.com:baishiaihui/sortapp_api.git
 [submodule "front"]
  path = front
- url = https://github.com/baishiaihui/myapp_front
+ url = git@github.com:baishiaihui/sortapp_front.git
