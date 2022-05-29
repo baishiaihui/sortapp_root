@@ -1,0 +1,6 @@
+[submodule "api"]
+ path = api
+ url = https://github.com/baishiaihui/myapp_api
+[submodule "front"]
+ path = front
+ url = https://github.com/baishiaihui/myapp_front
