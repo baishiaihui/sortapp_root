@@ -1,2 +1,4 @@
 /.env
-/bk/*
+/bk/
+/.github/
+docker-compose.yml
