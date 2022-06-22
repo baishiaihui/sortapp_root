@@ -1,4 +1,5 @@
 /.env
-/bk/
-/.github/
-docker-compose.yml
+/.gitmodules
+/bk
+/.github
+/docker-compose.yml
