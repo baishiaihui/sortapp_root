@@ -1,0 +1,6 @@
+[submodule "api"]
+ path = api
+ url = https://github.com/baishiaihui/sortapp_api
+[submodule "front"]
+ path = front
+ url = https://github.com/baishiaihui/sortapp_front
